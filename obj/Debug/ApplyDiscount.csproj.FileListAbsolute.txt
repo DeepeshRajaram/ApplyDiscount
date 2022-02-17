@@ -1,0 +1,7 @@
+D:\Deepesh\Learning\YouTube\consoleApp\ApplyDiscount\bin\Debug\ApplyDiscount.exe
+D:\Deepesh\Learning\YouTube\consoleApp\ApplyDiscount\bin\Debug\ApplyDiscount.pdb
+D:\Deepesh\Learning\YouTube\consoleApp\ApplyDiscount\obj\Debug\ApplyDiscount.csproj.AssemblyReference.cache
+D:\Deepesh\Learning\YouTube\consoleApp\ApplyDiscount\obj\Debug\ApplyDiscount.csproj.CoreCompileInputs.cache
+D:\Deepesh\Learning\YouTube\consoleApp\ApplyDiscount\obj\Debug\ApplyDiscount.exe
+D:\Deepesh\Learning\YouTube\consoleApp\ApplyDiscount\obj\Debug\ApplyDiscount.pdb
+D:\Deepesh\Learning\YouTube\consoleApp\ApplyDiscount\bin\Debug\ApplyDiscount.exe.config
